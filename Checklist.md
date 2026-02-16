@@ -1,4 +1,4 @@
-# Checklist.md — Activity A (i) & (ii)
+# Checklist.md — Activity A (i) & (ii) and Activity B
 
 ## Part (i): Research & Preparation
 
@@ -123,3 +123,52 @@
 - [ ] Ensure notes are factual only.
 - [ ] Reference appendices in the main document.
 - [ ] Ensure research supports proposal decisions.
+
+---
+
+# Activity B: Design Documentation
+
+## Design Documentation Requirements
+
+### Visual / Interface Designs
+- [ ] Create clear interface mockups or wireframes.
+- [ ] Show layout, navigation, and key user interactions.
+- [ ] Ensure designs are understandable to technical and non-technical stakeholders.
+- [ ] Reflect accessibility considerations.
+
+### Data Requirements
+- [ ] Identify all data entities.
+- [ ] Define attributes for each entity.
+- [ ] Show relationships between data entities.
+- [ ] Include data storage, validation, and security requirements.
+- [ ] Ensure compliance with data protection laws.
+
+### Algorithm Designs
+- [ ] Select up to five complex problems to demonstrate.
+- [ ] Provide structured algorithm designs (flowcharts, pseudocode, or diagrams).
+- [ ] Ensure each algorithm solves a key part of the proposed solution.
+- [ ] Include both front-end and back-end logic where relevant.
+- [ ] Ensure clarity so a third-party developer can implement them.
+
+### Test Strategy
+- [ ] Outline the overall testing approach.
+- [ ] Define the order in which components will be tested.
+- [ ] Include a selection of relevant tests (not every test).
+- [ ] Identify test types (unit, integration, system, usability, security).
+- [ ] Include tests for front-end and back-end components.d
+- [ ] Include tests related to security and compliance.
+
+---
+
+## Solution Scope and Complexity
+- [ ] Confirm solution requires at least two programming languages.
+- [ ] Ensure both front-end and back-end processes are represented.
+- [ ] Ensure design documents provide enough detail for third-party implementation.
+- [ ] Ensure documentation supports informed decision-making by the client.
+
+## Appendices 
+- [ ] Include supporting design materials that are not part of the main document.
+- [ ] Appendices must contain factual design content only (no analysis).
+- [ ] Clearly reference each appendix in the main Activity B document.
+- [ ] Include items such as interface mockups, data models, algorithm diagrams, and sample test cases.
+- [ ] Ensure all appendix content directly supports the design documentation.
