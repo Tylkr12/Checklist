@@ -172,3 +172,24 @@
 - [ ] Clearly reference each appendix in the main Activity B document.
 - [ ] Include items such as interface mockups, data models, algorithm diagrams, and sample test cases.
 - [ ] Ensure all appendix content directly supports the design documentation.
+
+# Activity C: Development Requirements
+
+### Development Tasks
+- [ ] Implement secure code using at least two appropriate programming languages for both front-end and back-end processes.
+- [ ] Gather and prepare all assets needed for the digital solution.
+- [ ] Keep an assets log that:
+  - [ ] Records every source used.
+  - [ ] Describes the content and its purpose.
+  - [ ] Includes the date the information or asset was retrieved.
+
+### Iterative Development
+- [ ] Carry out iterative testing throughout development.
+- [ ] Document each stage of testing.
+- [ ] Record changes made to the solution during development.
+- [ ] Ensure testing covers inputs, calculations, validation, and processes using appropriate test data.
+
+### Code Quality
+- [ ] Produce code that can be understood and maintained by a third party.
+- [ ] Ensure the solution provides a high‑quality user experience.
+- [ ] Follow all relevant legal and regulatory guidelines and standards during development.
